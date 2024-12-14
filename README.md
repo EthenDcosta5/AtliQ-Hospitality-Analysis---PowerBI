@@ -39,9 +39,9 @@ AtliQ Grands, a leading five-star hotel chain in India with over 20 years in the
 
 Two dashboards were created to analyze the data:
 1. **Booking & Revenue Summary**
-![Heatmap Example](/dashboard/D1.jpg)
+![Booking & Revenue Summary](/dashboard/D1.jpg)
 2. **Guest Behavior & Stay Analytics**
-![Heatmap Example](/dashboard/D2.jpg)
+![Guest Behavior & Stay Analytics](/dashboard/D2.jpg)
 ---
 
 ## Detailed Report Based on Dashboards
